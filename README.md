@@ -105,3 +105,7 @@ For any inquiries or feedback, feel free to reach out:
 - **Website:** [JevlisKa.com](https://jevliska.com)
 
 Thank you for choosing Jevlis Ka! We hope it enhances your culinary adventures and brings joy to your kitchen. Happy cooking! 🍳👩‍🍳👨‍🍳
+
+---
+
+Jevlis Ka is developed and maintained by ASAP Coders.™
