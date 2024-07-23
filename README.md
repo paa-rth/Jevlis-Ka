@@ -1,6 +1,6 @@
 # Jevlis Ka 🍽️📱
 
-<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/Jevlis%20Ka%20Banner.png"  width="700" height="450" alt="Jevlis Ka Logo">
+<img src="" lt="Jevlis Ka Logo">
 
 **"Unlock Culinary Delights with 5000+ Recipes at Your Fingertips!"**
 
