@@ -44,8 +44,18 @@ Check out our demo video to see Jevlis Ka in action!
 
 
 ### Screenshots
-<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Recipe Library" width="200" height="400">
-<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Ingredient-based Recommendations" width="200" height="400">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Recipe Library" width="200" height="400"><br>
+      <b>Recipe Library</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Ingredient-based Recommendations" width="200" height="400"><br>
+      <b>Ingredient-based Recommendations</b>
+    </td>
+  </tr>
+</table>
 <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Recipe Books" width="400" height="200">
 <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Quick Commerce Integration" width="400" height="200">
 <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Community Engagement" width="400" height="200">
