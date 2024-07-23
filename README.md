@@ -52,19 +52,19 @@ Check out our demo video to see Jevlis Ka in action!
     </td>
     <td align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" width="300" height="600"><br>
-      <b>Search Page(Mobile)</b>
+      <b>Search Screen(Mobile)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" width="600" height="300"><br>
-      <b>Home Screen (Web)</b>
+      <b>Home Page(Web)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Seach Screen (Web)" width="600" height="300"><br>
-      <b>Seach Screen (Web)</b>
+      <b>Seach Page(Web)</b>
     </td>
   </tr>
   <tr>
