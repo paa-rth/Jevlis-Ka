@@ -44,11 +44,11 @@ Check out our demo video to see Jevlis Ka in action!
 
 
 ### Screenshots
-![Recipe Library]<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Recipe Library" width="200" height="400">
-![Ingredient-based Recommendations]<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Ingredient-based Recommendations" width="200" height="400">
-![Recipe Books]<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Recipe Books" width="400" height="200">
-![Quick Commerce Integration]<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Quick Commerce Integration" width="400" height="200">
-![Community Engagement]<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Community Engagement" width="400" height="200">
+<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Recipe Library" width="200" height="400">
+<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Ingredient-based Recommendations" width="200" height="400">
+<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Recipe Books" width="400" height="200">
+<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Quick Commerce Integration" width="400" height="200">
+<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Community Engagement" width="400" height="200">
 
 
 
