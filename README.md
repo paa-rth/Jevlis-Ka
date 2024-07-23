@@ -48,29 +48,29 @@ Check out our demo video to see Jevlis Ka in action!
   <tr>
     <td align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" width="300" height="600"><br>
-      <b>Recipe Library</b>
+      <b>Home Screen(Mobile)</b>
     </td>
     <td align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" width="300" height="600"><br>
-      <b>Ingredient-based Recommendations</b>
+      <b>Search Page(Mobile)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" width="600" height="300"><br>
-      <b>Recipe Books</b>
+      <b>Home Screen (Web)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Seach Screen (Web)" width="600" height="300"><br>
-      <b>Quick Commerce Integration</b>
+      <b>Seach Screen (Web)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" width="600" height="300"><br>
-      <b>Community Engagement</b>
+      <b>Searching an ingredient (Web)</b>
     </td>
   </tr>
 </table>
