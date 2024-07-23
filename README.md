@@ -70,7 +70,7 @@ Check out our demo video to see Jevlis Ka in action!
   <tr>
     <td colspan="2" align="center">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" width="600" height="300"><br>
-      <b>Searching an ingredient (Web)</b>
+      <b>Searching an ingredient(Web)</b>
     </td>
   </tr>
 </table>
