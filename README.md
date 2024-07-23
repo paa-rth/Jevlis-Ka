@@ -44,11 +44,11 @@ Check out our demo video to see Jevlis Ka in action!
 
 
 ### Screenshots
-![Recipe Library](https://yourimageurl.com/recipe-library.png)
-![Ingredient-based Recommendations](https://yourimageurl.com/ingredient-recommendations.png)
-![Recipe Books](https://yourimageurl.com/recipe-books.png)
-![Quick Commerce Integration](https://yourimageurl.com/quick-commerce.png)
-![Community Engagement](https://yourimageurl.com/community-engagement.png)
+![Recipe Library](https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg)
+![Ingredient-based Recommendations](https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg)
+![Recipe Books](https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg)
+![Quick Commerce Integration](https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg)
+![Community Engagement](https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg)
 
 ## Getting Started 🚀
 
