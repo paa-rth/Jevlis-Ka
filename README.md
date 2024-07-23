@@ -4,7 +4,7 @@
 
 Welcome to **Jevlis Ka**, your ultimate culinary companion built with Flutter and Dart. Jevlis Ka offers a vast collection of over 5000 recipes, on-demand, catering to every taste bud. Whether you're a seasoned chef or a novice cook, Jevlis Ka provides an array of features to enhance your culinary journey. 🌟
 
-![Jevlis Ka Logo](https://github.com/paa-rth/Jevlis-Ka/blob/master/images/Jevlis%20Ka%20logo.png)
+<img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/Jevlis%20Ka%20logo.png" width="200" height="200" alt="Jevlis Ka Logo">
 
 ## Features 🎉
 
