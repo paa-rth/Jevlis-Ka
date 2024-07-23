@@ -40,7 +40,7 @@ Welcome to **Jevlis Ka**, your ultimate culinary companion built with Flutter an
 
 ### Demo Video
 Check out our demo video to see Jevlis Ka in action!
-[![Demo Video](https://yourimageurl.com/demo-video-thumbnail.png)]([https://yourvideourl.com/demo-video](https://github.com/paa-rth/Jevlis-Ka/assets/103250850/86e13154-7f4a-4f60-9f08-1a913da82142))
+[![Demo Video](https://drive.google.com/file/d/1a2iKOkPdT_1IkWxEArBqFyvxjmubWB4Q/view)
 
 ### Screenshots
 ![Recipe Library](https://yourimageurl.com/recipe-library.png)
