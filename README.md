@@ -44,35 +44,41 @@ Check out our demo video to see Jevlis Ka in action!
 
 
 ### Screenshots
+<style>
+  .center-content {
+    text-align: center;
+  }
+</style>
+
 <table style="width: 100%; table-layout: auto;">
   <tr>
-    <td style="text-align: center;">
+    <td class="center-content">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" style="max-width: 100%; height: auto;">
       <br>
       <b>Home Screen(Mobile)</b>
     </td>
-    <td style="text-align: center;">
+    <td class="center-content">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" style="max-width: 100%; height: auto;">
       <br>
       <b>Search Screen(Mobile)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" class="center-content">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" style="max-width: 100%; height: auto;">
       <br>
       <b>Home Page(Web)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" class="center-content">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Search Screen (Web)" style="max-width: 100%; height: auto;">
       <br>
       <b>Search Page(Web)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">
+    <td colspan="2" class="center-content">
       <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" style="max-width: 100%; height: auto;">
       <br>
       <b>Searching an ingredient(Web)</b>
