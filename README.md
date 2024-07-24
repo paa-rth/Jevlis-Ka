@@ -47,43 +47,39 @@ Check out our demo video to see Jevlis Ka in action!
 <table style="width: 100%; table-layout: auto;">
   <tr>
     <td style="text-align: center;">
-      <div style="display: inline-block; text-align: center;">
-        <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" style="max-width: 100%; height: auto;">
-        <br><b>Home Screen(Mobile)</b>
-      </div>
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" style="max-width: 100%; height: auto;">
+      <br>
+      <b>Home Screen(Mobile)</b>
     </td>
     <td style="text-align: center;">
-      <div style="display: inline-block; text-align: center;">
-        <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" style="max-width: 100%; height: auto;">
-        <br><b>Search Screen(Mobile)</b>
-      </div>
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" style="max-width: 100%; height: auto;">
+      <br>
+      <b>Search Screen(Mobile)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
-      <div style="display: inline-block; text-align: center;">
-        <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" style="max-width: 100%; height: auto;">
-        <br><b>Home Page(Web)</b>
-      </div>
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" style="max-width: 100%; height: auto;">
+      <br>
+      <b>Home Page(Web)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
-      <div style="display: inline-block; text-align: center;">
-        <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Search Screen (Web)" style="max-width: 100%; height: auto;">
-        <br><b>Search Page(Web)</b>
-      </div>
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Search Screen (Web)" style="max-width: 100%; height: auto;">
+      <br>
+      <b>Search Page(Web)</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
-      <div style="display: inline-block; text-align: center;">
-        <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" style="max-width: 100%; height: auto;">
-        <br><b>Searching an ingredient(Web)</b>
-      </div>
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" style="max-width: 100%; height: auto;">
+      <br>
+      <b>Searching an ingredient(Web)</b>
     </td>
   </tr>
 </table>
+
 
 
 
