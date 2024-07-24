@@ -44,43 +44,32 @@ Check out our demo video to see Jevlis Ka in action!
 
 
 ### Screenshots
-<style>
-  .center-content {
-    text-align: center;
-  }
-</style>
-
-<table style="width: 100%; table-layout: auto;">
+<table>
   <tr>
-    <td class="center-content">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" style="max-width: 100%; height: auto;">
-      <br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Home Screen(Mobile)</b>
     </td>
-    <td class="center-content">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" style="max-width: 100%; height: auto;">
-      <br>
+    <td align="center" style="width: 50%;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" style="width: 100%; height: auto; max-width: 300px;"><br>
       <b>Search Screen(Mobile)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" class="center-content">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" style="max-width: 100%; height: auto;">
-      <br>
+    <td colspan="2" align="center" style="width: 100%;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" style="width: 100%; height: auto; max-width: 600px;"><br>
       <b>Home Page(Web)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" class="center-content">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Search Screen (Web)" style="max-width: 100%; height: auto;">
-      <br>
-      <b>Search Page(Web)</b>
+    <td colspan="2" align="center" style="width: 100%;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Seach Screen (Web)" style="width: 100%; height: auto; max-width: 600px;"><br>
+      <b>Seach Page(Web)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" class="center-content">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" style="max-width: 100%; height: auto;">
-      <br>
+    <td colspan="2" align="center" style="width: 100%;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" style="width: 100%; height: auto; max-width: 600px;"><br>
       <b>Searching an ingredient(Web)</b>
     </td>
   </tr>
