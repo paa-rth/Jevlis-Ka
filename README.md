@@ -44,36 +44,37 @@ Check out our demo video to see Jevlis Ka in action!
 
 
 ### Screenshots
-<table>
+<table style="width: 100%; table-layout: auto;">
   <tr>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" width="300" height="600"><br>
+    <td style="text-align: center;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/one.jpg" alt="Home Screen(Mobile)" style="max-width: 100%; height: auto;"><br>
       <b>Home Screen(Mobile)</b>
     </td>
-    <td align="center">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" width="300" height="600"><br>
+    <td style="text-align: center;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/two.jpg" alt="Search Page(Mobile)" style="max-width: 100%; height: auto;"><br>
       <b>Search Screen(Mobile)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" width="600" height="300"><br>
+    <td colspan="2" style="text-align: center;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/three.jpg" alt="Home Screen (Web)" style="max-width: 100%; height: auto;"><br>
       <b>Home Page(Web)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Seach Screen (Web)" width="600" height="300"><br>
-      <b>Seach Page(Web)</b>
+    <td colspan="2" style="text-align: center;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/four.jpg" alt="Search Screen (Web)" style="max-width: 100%; height: auto;"><br>
+      <b>Search Page(Web)</b>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" width="600" height="300"><br>
+    <td colspan="2" style="text-align: center;">
+      <img src="https://github.com/paa-rth/Jevlis-Ka/blob/master/images/five.jpg" alt="Searching an ingredient (Web)" style="max-width: 100%; height: auto;"><br>
       <b>Searching an ingredient(Web)</b>
     </td>
   </tr>
 </table>
+
 
 
 ## Getting Started 🚀
